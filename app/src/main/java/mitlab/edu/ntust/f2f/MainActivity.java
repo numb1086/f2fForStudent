@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void post(){
         try {
-            URL url = new URL("http://140.118.122.246/f2f/app/list.php");
+            URL url = new URL("http://xxx.xxx.xxx.xxx/f2f/app/list.php");
             HttpURLConnection http = (HttpURLConnection) url.openConnection();
             http.setRequestMethod("POST");
             http.setConnectTimeout(30000);
