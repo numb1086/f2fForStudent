@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">F2F Meeting</string>
+    <string name="intent_title">Add List</string>>
+    <string name="Title">F2F Meeting Time scheduler</string>
+    <string name="Version">(Ver.Teacher)</string>
+    <string name="Refresh">Refresh</string>
+    <string name="Start">Start</string>
+    <string name="AddDate">Add date：</string>
+    <string name="AddTime">Add time：</string>
+    <string name="Add">Add</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Name">Name</string>
+    <string name="ListTitle">Selected date/time</string>
+    <string name="Home">Home</string>
+    <string name="Remove">Remove</string>
+</resources>
